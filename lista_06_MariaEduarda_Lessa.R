@@ -1,3 +1,7 @@
+# Lista 6
+# Professor: Davi Moreira
+# Disciplina: Análise de Dados
+# Aluna: Maria Eduarda R. N. Lessa
 
   # Questão 1:
 
