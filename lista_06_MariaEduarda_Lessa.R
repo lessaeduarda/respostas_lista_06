@@ -483,10 +483,10 @@ F-statistic: 5.083 on 1 and 13 DF,  p-value: 0.04205
 
 ## letra b)
 
-# Modelo completo: Neste modelo o valor de ^β = 0.6243 e o erro = 0.1577,
+# Modelo completo: Neste modelo o valor de ^β = 0.6249 e o erro = 0.1577,
 # portanto, o IC de 95% para ^β é igual a: 
-0.6243 + 2*(0.1577) 
-0.6243 - 2*(0.1577) 
+0.6249 + 2*(0.1577) 
+0.6249 - 2*(0.1577) 
 
 # Modelo reduzido: Neste modelo o valor de ^β = 0.5336. e o erro = 0.2366,
 # portanto, o IC de 95% para ^β é igual a: 
