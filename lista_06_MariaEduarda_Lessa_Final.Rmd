@@ -451,13 +451,13 @@ summary(reg_selec)
 
 ## letra b)
 
-#### Modelo completo: Neste modelo o valor de ^b = 0.6243 e o erro = 0.1577, portanto, o IC de 95% para ^b é igual a: 
+#### Modelo completo: Neste modelo o valor de ^b = 0.6249 e o erro = 0.1577, portanto, o IC de 95% para ^b é igual a: 
 ```{r}
-0.6243 + 2*(0.1577) 
-0.6243 - 2*(0.1577) 
+0.6249 + 2*(0.1577) 
+0.6249 - 2*(0.1577) 
 ```
 
-#### Modelo reduzido: Neste modelo o valor de ^b = 0.5336. e o erro = 0.2366, portanto, o IC de 95% para ^B é igual a: 
+#### Modelo reduzido: Neste modelo o valor de ^b = 0.5336. e o erro = 0.2366, portanto, o IC de 95% para ^b é igual a: 
 ```{r}
 0.5336 + 2*(0.2366)
 0.5336 - 2*(0.2366)
